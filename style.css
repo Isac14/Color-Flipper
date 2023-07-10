@@ -6,6 +6,10 @@
     font-family: 'Roboto Mono';
 }
 
+body{
+    background-color: burlywood;
+}
+
 nav{
     font-weight: 500;
     height: 12vh;
@@ -50,8 +54,10 @@ button{
     font-size: 1em;
     margin-top: 20px;
     padding: 10px;
-    border: 2px solid black;
+    border: 2px solid whitesmoke;
     border-radius: 10px;
     background-color: transparent;
     cursor: pointer;
+    background-color: whitesmoke;
+
 }
